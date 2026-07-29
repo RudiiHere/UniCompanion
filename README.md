@@ -1,16 +1,8 @@
 # my_university_companion
 
-AI based  Flutter project.
+UniCompanion - Smart Campus Assistant
 
-## Getting Started
+UniCompanion is a modern Flutter application designed to simplify campus life by bringing essential academic tools into one intelligent platform. It helps students manage their academic routine, assignments, CGPA, university notices, and AI-powered study assistance from a single application.
 
-This project is a starting point for a Flutter application.
+Built with Flutter, Supabase, and Gemini AI, UniCompanion delivers a fast, intuitive, and responsive user experience.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
